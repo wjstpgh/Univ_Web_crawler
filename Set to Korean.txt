@@ -1,12 +1,14 @@
+
+
 1. strings_korean.txt -> strings_korean_utf8.txt
 
-    config_inc.php ÆÄÀÏ¿¡ 
+    config_inc.php íŒŒì¼ì— 
 
 $g_default_language = 'korean';
 
-  À¸·Î ÇÑ´Ù.
+  ìœ¼ë¡œ í•œë‹¤.
 
-2. core µð·ºÅä¸®ÀÇ string_api.php ÆÄÀÏÀÇ ¾Æ·¡ ÇÔ¼ö¸¦ ¾Æ·¡¿Í °°ÀÌ ¼öÁ¤ÇÑ´Ù.
+2. core ë””ë ‰í† ë¦¬ì˜ string_api.php íŒŒì¼ì˜ ì•„ëž˜ í•¨ìˆ˜ë¥¼ ì•„ëž˜ì™€ ê°™ì´ ìˆ˜ì •í•œë‹¤.
 
 function string_html_specialchars( $p_string ) {
 		return(strtr($p_string, array('&#' => '&#', '&' => '&amp;', '"' => '&quot;', '<' => '&lt;', '>' => '&gt;')));
