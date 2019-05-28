@@ -10,15 +10,15 @@ Come in and watch it a lot.
 ##
 How to use <br>
      There is no need to inststall! <br>
-     Just connect https://jtrm156.github.io/ <br>
-     So the program will run in the web server environment.<br>
-     next Run Window<br>
-     Web init Design <br>
+     1.Just connect https://jtrm156.github.io/ <br>
+     2.So the program will run in the web server environment.<br>
+     3.next Run Window<br>
+     4.Web init Design <br>
   <img src= "https://user-images.githubusercontent.com/31536131/58461227-1af08e80-816a-11e9-8880-2e96307c2e2c.png" width = "50%" height= "60%"></img> <br>
-    Enter a Word or http address and Click the Run button! <br> 
+     5.Enter a Word or http address and Click the Run button! <br> 
 ##
 File list  <br>
-test_naver<br>
+test_naver.py<br>
 -Requset <br>
 imformation from http.<br>
 <img src= "https://user-images.githubusercontent.com/31536131/58465453-b7b72a00-8172-11e9-9908-97c40a16cf55.png" > </img>
