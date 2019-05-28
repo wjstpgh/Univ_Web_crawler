@@ -8,18 +8,16 @@ Basically, a web crawler that people know is a computer program that explores th
 Come in and watch it a lot.
 
 ##
-
-**Table of Contents**
-    
 How to use <br>
      There is no need to inststall! <br>
      Just connect https://jtrm156.github.io/ <br>
-     <br>
+     So the program will run in the web server environment.<br>
+     next Run Window<br>
      Web init Design <br>
   <img src= "https://user-images.githubusercontent.com/31536131/58461227-1af08e80-816a-11e9-8880-2e96307c2e2c.png" width = "50%" height= "60%"></img> <br>
     Enter a Word or http address and Click the Run button! <br> 
-
-file list  <br>
+##
+File list  <br>
 test_naver<br>
 -Requset <br>
 imformation from http.<br>
@@ -36,6 +34,14 @@ Whenever JSON data is used, it can be easily used as a variable without visiting
 -Result<br>
 <img src= "https://user-images.githubusercontent.com/31536131/58470072-e1288380-817b-11e9-9f58-ac01fe1c5dc5.png" > </img>
 
+-Mantis<br>
+How to repot bugs<br>
+For Windows, IIS, Apache, PHP, and MySQL must be installed.<br>
+But there is a freeware APM that installs at once.<br>
+
+You can find more information in the repository.<br>
+
+##
 Contribute <br>
 There are many ways in which you can participate in the project, for example:<br>
 -Submit bugs and feature requests, and help us verify as they are checked in<br>
@@ -48,6 +54,7 @@ If you are interested in fixing issues and contributing directly to the code bas
 -Submitting pull requests<br>
 -Contributing to translations <br>
 
+##
 License <br>
 GPL
 
@@ -62,4 +69,4 @@ You can see all data in the repository.<br>
      c:\ >pip install beatsoup4 <br>
     -Request <br>
      c:\ >pip install requests <br>
-     
+      
