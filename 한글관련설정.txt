@@ -1,0 +1,13 @@
+1. strings_korean.txt -> strings_korean_utf8.txt
+
+    config_inc.php 파일에 
+
+$g_default_language = 'korean';
+
+  으로 한다.
+
+2. core 디렉토리의 string_api.php 파일의 아래 함수를 아래와 같이 수정한다.
+
+function string_html_specialchars( $p_string ) {
+		return(strtr($p_string, array('&#' => '&#', '&' => '&amp;', '"' => '&quot;', '<' => '&lt;', '>' => '&gt;')));
+	}
