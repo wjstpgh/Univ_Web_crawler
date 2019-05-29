@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>Personal Crawling</title>
+  <link rel="stylesheet" href='craw.css'>
+ </head>
+ <body>
+ <div class='body'>
+	<div class='title'>
+			<a href="home.html" title="">
+			Web Crawlier
+			</a>
+			
+	</div>
+	 <div class='container'>
+		
+		<form name='input' method=post action="">
+			<div class='site'>
+				<div class='explain'>
+					Site LINK ADDRESS
+				</div></br>
+				<input type='text' value=''/>
+
+			</div></br>
+			
+			<div class='filter'>
+				<div class='explain'>
+					Scrap HTML Tag
+				</div></br>
+				<input type='text' value=''/>
+
+			</div></br>
+
+			<div class='button'>
+				<input type='submit' value='Make your Crawlier' onclick=''/>
+
+			</div>
+		
+		</form>
+
+	 </div>
+ </div>
+ </body>
+</html>
+
+
+
+
