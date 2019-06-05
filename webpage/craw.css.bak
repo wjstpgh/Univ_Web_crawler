@@ -103,6 +103,6 @@ transition:.8s;
 }
 
 input.button:hover{
-background-color:rgba(204,204,204,0.6);
+background-color:rgba(0,0,0,0.6);
 color:rgba(0,0,0,0);
 }

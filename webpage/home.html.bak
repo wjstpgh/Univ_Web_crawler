@@ -14,7 +14,7 @@
  <div class='body'>
 	<div class='title'>
 			<a href="home.html" title="">
-			Web Crawlier
+			Web Crawler
 			</a>
 			
 	</div>
@@ -25,7 +25,7 @@
 				<div class='explain'>
 					Site LINK ADDRESS
 				</div></br>
-				<input type='text' value=''/>
+				<input class='text' type='text' name='site' value=''/>
 
 			</div></br>
 			
@@ -33,12 +33,12 @@
 				<div class='explain'>
 					Scrap HTML Tag
 				</div></br>
-				<input type='text' value=''/>
+				<input class='text' type='text' name='filter' value=''/>
 
 			</div></br>
 
 			<div class='button'>
-				<input type='submit' value='Make your Crawlier' onclick=''/>
+				<input class='button' type='submit' value='Make your Crawlier' onclick=''/>
 
 			</div>
 		

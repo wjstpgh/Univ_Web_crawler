@@ -106,3 +106,9 @@ input.button:hover{
 background-color:rgba(0,0,0,0.6);
 color:rgba(0,0,0,0);
 }
+
+div.result{
+width:100%;
+font-size:15px;
+color:rgba(184,184,184,0.7);
+}

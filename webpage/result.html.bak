@@ -19,36 +19,25 @@
 			
 	</div>
 	 <div class='container'>
-		
-		<form name='input' method=post action="file:///C:/Users/admin/Desktop/Opensource.github.io/webpage/result.html">
+
 			<div class='site'>
 				<div class='explain'>
-					Site LINK ADDRESS
+					Result
 				</div></br>
-				<input class='text' type='text' name='site' value=''/>
+				<div class='result'>
+					{% for value in result.items() %}
+						{{value}}</br>
+					{% endfor %}
+					<% For key, value In result.item() {%>
+						{{value}}
+					<%} endfor %>
+					
+				</div>
+				
 
 			</div></br>
-			
-			<div class='filter'>
-				<div class='explain'>
-					Scrap HTML Tag
-				</div></br>
-				<input class='text' type='text' name='filter' value=''/>
-
-			</div></br>
-
-			<div class='button'>
-				<input class='button' type='submit' value='Make your Crawlier' onclick=''/>
-
-			</div>
-		
-		</form>
 
 	 </div>
  </div>
  </body>
 </html>
-
-
-
-
