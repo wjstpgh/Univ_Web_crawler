@@ -50,7 +50,7 @@ click right button. select copy - copy selector <br>
 put the to copy thing. Scrap HTML Tag and Site Link Address<br>
 <img src="https://user-images.githubusercontent.com/31536131/59491934-c61b7a80-8ec2-11e9-9cbb-0994f12e1e25.jpg"></img><br>
 
-example> 
+example> <br>
 <img src ="https://user-images.githubusercontent.com/31536131/59492953-0d0a6f80-8ec5-11e9-94ad-256181f08656.png"></img><br>
 
 -Result<br>
