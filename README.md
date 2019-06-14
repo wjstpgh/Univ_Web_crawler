@@ -11,12 +11,12 @@ Come in and watch it a lot.
 ##
 How to use <br>
      There is no need to inststall! <br>
-     1.Just connect https://jtrm156.github.io/ <br>
+     1.Just connect htt[://172.31.37.114:5000 <br>
      2.So the program will run in the web server environment.<br>
      3.next Run Window<br>
      4.Web init Design <br>
-  <img src= "https://user-images.githubusercontent.com/31536131/58461227-1af08e80-816a-11e9-8880-2e96307c2e2c.png" width = "50%" height= "60%"></img> <br>
-     5.Enter a Word or http address and Click the Run button! <br> 
+     <img src="https://user-images.githubusercontent.com/31536131/59491934-c61b7a80-8ec2-11e9-9cbb-0994f12e1e25.jpg" ></img><br>
+     5.Enter a Word or http address and Click the Run button! <br>
 ##
 File list  <br>
 test_naver.py<br>
@@ -27,13 +27,34 @@ imformation from http.<br>
 -beautifulsoup <br>
 html to python.<br>
 <img src= "https://user-images.githubusercontent.com/31536131/58465707-36ac6280-8173-11e9-99bc-8614fd848ec0.png" ></img>
+
+-Flask
+Web Server play into Server.
   
 -JSON data<br>
 Whenever JSON data is used, it can be easily used as a variable without visiting the key, value.<br>
 <img src= "https://user-images.githubusercontent.com/31536131/58467565-eafbb800-8176-11e9-929e-3642f453015b.png" > </img>
 
+-Play <br>
+press F12.. and checked yello press <br>
+<img src ="https://user-images.githubusercontent.com/31536131/59492314-aa64a400-8ec3-11e9-8aa5-193c6e515a4e.jpg"></img>
+<br>
+
+You want to press category.<br>
+<img src ="https://user-images.githubusercontent.com/31536131/59492450-f9123e00-8ec3-11e9-81a4-458178ed693e.jpg"></img>
+<br>
+
+click right button. select copy - copy selector <br>
+<img src ="https://user-images.githubusercontent.com/31536131/59492605-47bfd800-8ec4-11e9-9f50-c86d36de3948.jpg"></img><br>
+
+put the to copy thing. Scrap HTML Tag and Site Link Address<br>
+<img src="https://user-images.githubusercontent.com/31536131/59491934-c61b7a80-8ec2-11e9-9cbb-0994f12e1e25.jpg"></img><br>
+
+example> 
+<img src ="https://user-images.githubusercontent.com/31536131/59492953-0d0a6f80-8ec5-11e9-94ad-256181f08656.png"></img><br>
+
 -Result<br>
-<img src= "https://user-images.githubusercontent.com/31536131/58470072-e1288380-817b-11e9-9f58-ac01fe1c5dc5.png" > </img>
+<img src= "https://user-images.githubusercontent.com/31536131/59492994-214e6c80-8ec5-11e9-8ea4-b8e89ebdacc1.png" > </img><br>
 
 -Mantis<br>
 How to repot bugs<br>
